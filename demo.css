@@ -502,6 +502,22 @@ ul{
 
 /* Contact */
 
+
+.contactpara{
+    text-align: center;
+    text-wrap: wrap;
+    border: 1px solid black;
+    padding: 40px 300px;
+    border-radius: 5px;
+    color: whitesmoke;
+    background-color: blue;
+}
+
+
+
+
+
+
 .control_input{
     width: 100%;
     font-size: var(--normal-font-size);
